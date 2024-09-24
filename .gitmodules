@@ -1,0 +1,3 @@
+[submodule "ZakksDocs"]
+	path = ZakksDocs
+	url = git@github.com:zakkhoyt/ZakksDocs.git
